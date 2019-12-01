@@ -1,0 +1,30 @@
+[submodule "vendor/lofn"]
+	path = vendor/lofn
+	url = https://github.com/lokedhs/lofn
+[submodule "vendor/cl-solr"]
+	path = vendor/cl-solr
+	url = https://github.com/lokedhs/cl-solr
+[submodule "vendor/containers"]
+	path = vendor/containers
+	url = https://github.com/lokedhs/containers
+[submodule "vendor/cl-markup"]
+	path = vendor/cl-markup
+	url = https://github.com/lokedhs/cl-markup
+[submodule "vendor/clouchdb-patch"]
+	path = vendor/clouchdb-patch
+	url = https://github.com/lokedhs/clouchdb-patch
+[submodule "vendor/cl-rabbit"]
+	path = vendor/cl-rabbit
+	url = https://github.com/lokedhs/cl-rabbit
+[submodule "vendor/cl-rabbit-async"]
+	path = vendor/cl-rabbit-async
+	url = https://github.com/lokedhs/cl-rabbit-async
+[submodule "vendor/html5-notification"]
+	path = vendor/html5-notification
+	url = https://github.com/lokedhs/html5-notification
+[submodule "vendor/zs3"]
+	path = vendor/zs3
+	url = https://github.com/lokedhs/zs3
+[submodule "vendor/mailgun"]
+	path = vendor/mailgun
+	url = https://github.com/lokedhs/mailgun
